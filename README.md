@@ -27,8 +27,6 @@ This is a simple mini-game made in *Unreal Engine 5* where the player throws bal
 - Creating and updating UI widgets
 - Managing game state variables (ammo, score)
 
-## 📷 Screenshots / Demo (Optional)
-Add gameplay screenshots or a short video link here.
 
 ---
 
