@@ -30,4 +30,4 @@ This is a simple mini-game made in *Unreal Engine 5* where the player throws bal
 
 ---
 
-This is my *first completed Unreal Engine project*, and it helped me understand how to build an interactive game from scratch. I plan to build on this experience with more advanced projects in the future.
+This is my *first Unreal Engine project*, and it helped me understand how to build an interactive game from scratch. I plan to build on this experience with more advanced projects in the future.
